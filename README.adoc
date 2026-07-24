@@ -232,6 +232,5 @@ image::docs/image-2022-05-13-18-16-50-879.png[]
    Add Programmatic access
    Permission -> add to the group -> GithubActionsGroup
 
-
 - Here test is executed and won't be deployed if any fails
 - To block if fails -> https://stackoverflow.com/questions/65580689/how-we-can-disable-merge-of-a-pull-request-in-github-if-any-check-fails-in-the-c?msclkid=6959e4f5c80611eca0911c7013c20306
